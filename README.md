@@ -1,7 +1,7 @@
 # python
 
 #### 介绍
-python文件
+python   Git资料
 
 #### 软件架构
 软件架构说明
@@ -14,10 +14,7 @@ python文件
 3. xxxx
 
 #### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
+龙哥是董事长
 
 #### 参与贡献
 
